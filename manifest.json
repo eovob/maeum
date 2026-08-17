@@ -1,0 +1,17 @@
+{
+  "name": "마음결 - 오늘의 한 구절",
+  "short_name": "마음결",
+  "description": "오늘의 기분과 상황에 맞는 불교 경전의 한 구절을 만나보세요.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#12151A",
+  "theme_color": "#12151A",
+  "lang": "ko",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
